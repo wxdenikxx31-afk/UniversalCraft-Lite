@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///C:/Users/danil/DistroRoot-Lite/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "UniversalCraft Lite",
+    "description": "Облегчённая сборка без шейдеров",
+    "icon": null,
+    "address": "89.35.130.10:25565",
+    "discord": {},
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
